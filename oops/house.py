@@ -1,3 +1,4 @@
+#object , class,
 class House1():
     doors = 4
     windows = 16
